@@ -1,3 +1,9 @@
 body {
-    background-color: #000000
+    background-color: black;
+}
+
+.main-image img {
+    display: block;
+    max-width: 1000px;
+    margin: auto;
 }
